@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hello, I am Andrew Wallace</h3>
 
 - 🔭 I’m currently working on [DnD-Compendium-and-Character-Creator](https://github.com/Tackyjarl/DnD-Compendium-and-Character-Creator)
 
